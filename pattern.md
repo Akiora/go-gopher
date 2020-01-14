@@ -4,49 +4,51 @@
 ![Older, Chubbier Go Gopher](image/small/alt_gopher_front.jpg)
 
 ## You will need:
-* **Yarn:** Turquoise *(aran)*, white, brown, black *(DK)*
-* **Crochet hooks:** 2,5 for body and ears; 2 or 2,25 for other details
+* **Yarn:** 
+    * Body Color A (Blue) *(aran, ~100g)*
+    * Body Color B (Light Blue) *(aran, ~25g)*
+    * Eye Color (White) *(DK, ~10g)*
+    * Limb Color (Brown) *(DK, ~15g)*
+    * Nose Color (Black) *(DK, ~1g)*
+* **Crochet hooks:**
+	* 2.5mm for body and ears
+	* 2.0mm-2.25mm for other details
 * One pair of safety eyes 12 mm
-* Stuffing (Polyfil)
-* Needle
-* Stitch marker
-* Scissors
+* Stuffing (polyfil)
+* Needle, Scissors, Stich Markers
 
 ## Abbreviations:
 ```
 sc = single crochet stitch
-ch = chain
+ch = chain stich
 inc = increase (make two stitches into the same stitch)
-dec = decrease (I recommend using an invisible decrease)
+dec = decrease (I recommend using an [invisible decrease](https://www.allaboutami.com/invisibledecrease/))
 fo = finish off
 ```
 
-## Eyeball
+## Eyes
 
-![Eyeball](image/small/eyeball.jpg)
+![Eyeball](image/small/alt_eyeball.jpg)
 
+Using White, make two of the below:
 ```
-make two, use white
-
-1. 6 in a magic circle				(6)
-2. (inc)x6					(12)
+1. 6 sc in a magic circle				(6)
+2. 6 inc					(12)
 3. (sc, inc)x6					(18)
 4. (2 sc, inc)x6				(24)
 5. (3 sc, inc)x6				(30)
 6. (4 sc, inc)x6				(36)
-fo, leave a long thread
-
-Put the safety eyes to the middle of the eyeballs.
+fo (leave a long thread)
 ```
-![Eyes](image/small/eyes.jpg)
+Attach the safety eyes to the middle of each eyeball.
+![Eyes](image/small/alt_eyes.jpg)
 
 ## Body
 
 ![Gopher Front](image/small/alt_gopher_front.jpg)
 
+Using Body Color A (aran)...
 ```
-use aran yarn - Color A
-
 1. 6 in a magic circle				(6)
 2. (inc)x6					(12)
 3. (sc, inc)x6					(18)
@@ -57,12 +59,12 @@ use aran yarn - Color A
 8. (6 sc, inc)x6				(48)
 9. (7 sc, inc)x6				(54)
 10. (8 sc, inc)x6				(60)
-11-25. 60 sc				(60)
+11-25. 60 sc					(60)
 26. 14 sc, dec, 28 sc, dec, 14 sc		(58)
 27. 14 sc, dec, 27 sc, dec, 13 sc		(56)
 28. 14 sc, dec, 26 sc, dec, 12 sc		(54)
 29. 14 sc, dec, 25 sc, dec, 11 sc		(52)
-30. 52 sc				(52)
+30. 52 sc					(52)
 31. 12 sc, inc, 26 sc, inc, 12 sc		(54)
 32. 13 sc, inc, 26 sc, inc, 13 sc		(56)
 33. 14 sc, inc, 26 sc, inc, 14 sc		(58)
@@ -70,111 +72,108 @@ use aran yarn - Color A
 
 ```
 
-```
-Place the eyes leaving 13 rows empty from the top of the head. 
-If you wish to make bulging eyes, use a bit of the stuffing for the eyes.
-```
+Place and attach the eyes so that the very top of each falls ~row 13. 
+I recommend stuffing the eyes a bit (creates the overstuffed/bulging look).
 
 ![With Eyes](image/small/alt_with_eyes.jpg)
 
-With Color A and Color B...
+Using Body Color A and Body Color B, continue the body as follows...
 
 ```
-35-43. 60 sc A		(60)
-35. 60 sc A		(60)
-36. 29 sc A, 2 sc B, 29 sc A		(60)
-37. 28 sc A, 4 sc B, 28 sc A		(60)
-38. 27 sc A, 6 sc B, 27 sc A		(60)
-39. 26 sc A, 8 sc B, 26 sc A		(60)
-40. 25 sc A, 10 sc B, 25 sc A		(60)
-41. 24 sc A, 12 sc B, 24 sc A		(60)
-42. 23 sc A, 14 sc B, 23 sc A		(60)
-43. 22 sc A, 16 sc B, 22 sc A		(60)
-44. 21 sc A, 18 sc B, 21 sc A		(60)
-45. 20 sc A, 20 sc B, 20 sc A		(60)
-46. 19 sc A, 22 sc B, 19 sc A		(60)
-47. 18 sc A, 24 sc B, 18 sc A		(60)
+35. [A] 60 sc				(60)
+36. [A] 29 sc || [B]  2 sc || [A] 29 sc		(60)
+37. [A] 28 sc || [B]  4 sc || [A] 28 sc		(60)
+38. [A] 27 sc || [B]  6 sc || [A] 27 sc		(60)
+39. [A] 26 sc || [B]  8 sc || [A] 26 sc		(60)
+40. [A] 25 sc || [B] 10 sc || [A] 25 sc		(60)
+41. [A] 24 sc || [B] 12 sc || [A] 24 sc		(60)
+42. [A] 23 sc || [B] 14 sc || [A] 23 sc		(60)
+43. [A] 22 sc || [B] 16 sc || [A] 22 sc		(60)
+44. [A] 21 sc || [B] 18 sc || [A] 21 sc		(60)
+45. [A] 20 sc || [B] 20 sc || [A] 20 sc		(60)
+46. [A] 19 sc || [B] 22 sc || [A] 19 sc		(60)
+47. [A] 18 sc || [B] 24 sc || [A] 18 sc		(60)
+```
 
-Start to stuff the body.
+Start to stuff the body (fill ~80% of current progress), then continue as below...
 
-48. A: 8 sc, dec, 7 sc || B: 1 sc, dec, (8 sc, dec)x2, 2 sc || A: 6 sc, dec, 8 sc, dec		(54)
-49. A: 7 sc, dec, 7 sc || B: dec, (7 sc, dec)x2, 2 sc || A: 5 sc, dec, 7 sc, dec		(48)
-50. A: (6 sc, dec)x2 || B: (6 sc, dec)x2, 2 sc || A: 4 sc, dec, 6 sc, dec		(42)
-51. A: (5 sc, dec)x2 || B: (5 sc, dec)x2, 2 sc || A: 3 sc, dec, 5 sc, dec		(36)
-52. A: (4 sc, dec)x2 || B: (4 sc, dec)x2, 2 sc || A: 2 sc, dec, 4 sc, dec		(30)
-53. A: (3 sc, dec)x2 || B: (3 sc, dec)x2, 2 sc || A: 1 sc, dec, 3 sc, dec		(24)
-54. A: (2 sc, dec)x2 || B: (2 sc, dec)x2, 2 sc || A: dec, 2 sc, dec		(18)
-55. A: (sc, dec)x2 || B: (2 sc, dec)x3 || A: sc, dec		(12)
-56. A: 2 dec || B: 3 dec || A: dec		(6)
+```
+48. [A]  8 sc, dec, 7 sc || [B] 1 sc, dec, (8 sc, dec)x2, 2 sc || [A] 6 sc, dec, 8 sc, dec		(54)
+49. [A]  7 sc, dec, 7 sc || [B]       dec, (7 sc, dec)x2, 2 sc || [A] 5 sc, dec, 7 sc, dec		(48)
+50. [A] (6 sc, dec)x2    || [B]            (6 sc, dec)x2, 2 sc || [A] 4 sc, dec, 6 sc, dec		(42)
+51. [A] (5 sc, dec)x2    || [B]            (5 sc, dec)x2, 2 sc || [A] 3 sc, dec, 5 sc, dec		(36)
+52. [A] (4 sc, dec)x2    || [B]            (4 sc, dec)x2, 2 sc || [A] 2 sc, dec, 4 sc, dec		(30)
+53. [A] (3 sc, dec)x2    || [B]            (3 sc, dec)x2, 2 sc || [A] 1 sc, dec, 3 sc, dec		(24)
+54. [A] (2 sc, dec)x2    || [B]            (2 sc, dec)x2, 2 sc || [A]       dec, 2 sc, dec		(18)
+55. [A]   (sc, dec)x2    || [B]            (2 sc, dec)x3       || [A]              sc, dec		(12)
+56. [A]      2 dec       || [B]                 3 dec          || [A]                  dec		 (6)
 
-fo, close the body.
+fo (closing the body)
 ```
 
 ## Ear
+Using Body Color A, make two of the below:
 ```
-make two, use aran
 
-1. 4 in a magic circle				(4)
-2. (inc)x4					(8)
+1. 4 sc in a magic circle			(4)
+2. 4 inc					(8)
 3. (sc, inc)x4					(12)
 4. 12 sc					(12)
-fo, leave a long thread
-
-Sew the ears to the head (leaving around 9 rows from the top of the head).
+fo (leave a long thread)
 ```
+Sew the ears to the head (creating ~9 rows between the ears and the top of the head).
 
 ## Mouth
-![Mouth](image/small/mouth.jpg)
-
+![Mouth](image/small/alt_mouth.jpg)
+Using Brown, make one of the below:
 ```
-use brown
-
-1. 6 in a magic circle				(6)
-2. (inc)x6					(12)
+1. 6 sc in a magic circle			(6)
+2. 6 inc					(12)
 3. (sc, inc)x6					(18)
-4.-5. 18 sc				(18)
-fo, leave a long thread
-
-Embroider the upper part with black yarn.
+4. 18 sc				(18)
+5. 18 sc				(18)
+fo (leave a long thread)
 ```
+Embroider the upper part of the nose with Black.
 
 ## Teeth
-![Teeth](image/small/teeth.jpg)
+![Teeth](image/small/alt_teeth.jpg)
 
+Using White...
 ```
-use white
-
-Make a chain of 4 sc, start in the second stitch of the chain and go back to the beginning, 
-Make another chain of 4 sc, come back the same way. 
-
-Sew the teeth to the proper place, then sew the mouth to the place.
+1. Make a chain of 4 sc, start in the second stitch of the chain and go back to the beginning, 
+2. Make another chain of 4 sc, come back the same way. 
 ```
+Sew the teeth to the proper place on the mouth, then sew the mouth to the body.
 
-## Leg
-![Leg](image/small/legs_bottom.jpg)
-
+## Legs
+![Leg](image/small/alt_legs_bottom.jpg)
+Using Brown, make four of the below:
 ```
-make 4, use brown
-
-1. 6 in a magic circle				(6)
-2. (inc)x6					(12)
-3.-7. 12 sc				(12)
-fo, leave a long thread
-
+1. 6 sc in a magic circle			(6)
+2. 6 inc					(12)
+3. 12 sc				(12)
+4. 12 sc				(12)
+5. 12 sc				(12)
+6. 12 sc				(12)
+7. 12 sc				(12)
+fo (leave a long thread)
+```
 Sew the legs to the body.
-```
 
 ## Tail
-![Tail](image/small/tail.jpg)
+![Tail](image/small/alt_tail.jpg)
+
+Using Body Color A...
+```
+1. 4 sc in a magic circle		(4)
+2. 4 sc					(4)
+3. 4 sc					(4)
+4. 4 sc					(4)
+fo (leave a long thread)
 
 ```
-use aran
-
-1. 4 in a magic circle				(4)
-2.-4. 4 sc					(4)
-fo, leave a long thread
-
 Sew the tail to the body.
-```
 
-Well done, your Gopher is ready! :)
+
+*Well done; your Gopher is ready!* Hope you enjoy <3
