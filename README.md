@@ -8,14 +8,14 @@ This [updated pattern](pattern.md) is a fork of an [original pattern](https://gi
 
 ## Languages
 
-Pattern is currently only available in English (American Crochet notation). Feel free to translate and submit a Pull Request.
+Pattern is currently only available in English (American English crochet notation). Feel free to translate and submit a Pull Request.
 
 - [English](pattern.md)
 
 ## Contributions
 
 - You can contribute by translating it to any language you know. Just open a PR.
-- Altenratively, fork this and make your own variation!
+- Alternatively, fork this and make your own variation!
 
 
 Cheers.
