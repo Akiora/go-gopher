@@ -13,9 +13,9 @@
 * **Crochet hooks:**
 	* 2.5mm for body and ears
 	* 2.0mm-2.25mm for other details
-* One pair of safety eyes 12 mm
+* Safety eyes (1x 12mm pair)
 * Stuffing (polyfil)
-* Needle, Scissors, Stich Markers
+* Needle, Scissors, & Stitch Markers
 
 ## Abbreviations:
 ```
@@ -41,6 +41,7 @@ Using White, make two of the below:
 fo (leave a long thread)
 ```
 Attach the safety eyes to the middle of each eyeball.
+
 ![Eyes](image/small/alt_eyes.jpg)
 
 ## Body
@@ -49,7 +50,7 @@ Attach the safety eyes to the middle of each eyeball.
 
 Using Body Color A (aran)...
 ```
-1. 6 in a magic circle				(6)
+1. 6 sc in a magic circle			 (6)
 2. (inc)x6					(12)
 3. (sc, inc)x6					(18)
 4. (2 sc, inc)x6				(24)
@@ -73,14 +74,14 @@ Using Body Color A (aran)...
 ```
 
 Place and attach the eyes so that the very top of each falls ~row 13. 
-I recommend stuffing the eyes a bit (creates the overstuffed/bulging look).
+I recommend stuffing the eyes a bit (to create an overstuffed/bulging look).
 
 ![With Eyes](image/small/alt_with_eyes.jpg)
 
 Using Body Color A and Body Color B, continue the body as follows...
 
 ```
-35. [A] 60 sc				(60)
+35. [A] 60 sc					(60)
 36. [A] 29 sc || [B]  2 sc || [A] 29 sc		(60)
 37. [A] 28 sc || [B]  4 sc || [A] 28 sc		(60)
 38. [A] 27 sc || [B]  6 sc || [A] 27 sc		(60)
@@ -111,12 +112,11 @@ Start to stuff the body (fill ~80% of current progress), then continue as below.
 fo (closing the body)
 ```
 
-## Ear
+## Ears
 Using Body Color A, make two of the below:
 ```
-
-1. 4 sc in a magic circle			(4)
-2. 4 inc					(8)
+1. 4 sc in a magic circle			 (4)
+2. 4 inc					 (8)
 3. (sc, inc)x4					(12)
 4. 12 sc					(12)
 fo (leave a long thread)
@@ -125,13 +125,14 @@ Sew the ears to the head (creating ~9 rows between the ears and the top of the h
 
 ## Mouth
 ![Mouth](image/small/alt_mouth.jpg)
+
 Using Brown, make one of the below:
 ```
-1. 6 sc in a magic circle			(6)
+1. 6 sc in a magic circle			 (6)
 2. 6 inc					(12)
 3. (sc, inc)x6					(18)
-4. 18 sc				(18)
-5. 18 sc				(18)
+4. 18 sc					(18)
+5. 18 sc					(18)
 fo (leave a long thread)
 ```
 Embroider the upper part of the nose with Black.
@@ -148,10 +149,11 @@ Sew the teeth to the proper place on the mouth, then sew the mouth to the body.
 
 ## Legs
 ![Leg](image/small/alt_legs_bottom.jpg)
+
 Using Brown, make four of the below:
 ```
-1. 6 sc in a magic circle			(6)
-2. 6 inc					(12)
+1. 6 sc in a magic circle		 (6)
+2. 6 inc				(12)
 3. 12 sc				(12)
 4. 12 sc				(12)
 5. 12 sc				(12)
@@ -170,10 +172,11 @@ Using Body Color A...
 2. 4 sc					(4)
 3. 4 sc					(4)
 4. 4 sc					(4)
+
 fo (leave a long thread)
 
 ```
 Sew the tail to the body.
 
 
-*Well done; your Gopher is ready!* Hope you enjoy <3
+**Well done; your Gopher is ready!** Hope you enjoy <3
